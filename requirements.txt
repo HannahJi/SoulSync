@@ -1,0 +1,29 @@
+# requirements.txt
+# SoulSync Dependencies
+
+# LangChain and LangGraph
+langchain
+langchain-openai
+langchain-community
+langgraph
+sentence_transformers
+langchain-google-genai
+
+
+
+# Vector Store and Embeddings
+chromadb
+tiktoken
+
+# Spotify Integration
+spotipy
+
+# OpenAI
+openai
+
+
+# Utilities
+python-dotenv
+requests
+flask
+flask_cors
